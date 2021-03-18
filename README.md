@@ -12,7 +12,7 @@
 
 #### Demonstração:
 
-![exemplo](C:\Users\Caio Santos\Desktop\GitHub - Before\Clone página Facebook\images\exemplo.png)
+![exemplo](https://user-images.githubusercontent.com/62068883/111561935-10a2e880-8774-11eb-9d3e-4bb860f9ca87.png)
 
 
 
